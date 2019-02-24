@@ -1,6 +1,6 @@
 ## Download
 
-[check out this pdf](./swiston.pdf)
+[check out this pdf](./downloads/swiston.pdf)
 
 
 ## Welcome to GitHub Pages
